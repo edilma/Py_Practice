@@ -1,0 +1,14 @@
+.git
+archive.zip
+calculateCorrelation.py
+create.py
+create_folder.py
+files_pract.py
+newNameFile.txt
+ospathUtils.py
+results
+results.txt
+shell_pract.py
+textfile.txt.bak
+textzip.zip
+Total number of bytes: 33359
