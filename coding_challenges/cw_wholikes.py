@@ -26,7 +26,7 @@ for i in arr:
     m= True if i==2 else False
     #print (m)
 
-n=6
+n=10
 for i in range (6):
     if i not in arr:
         arr.append(i)
