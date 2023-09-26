@@ -17,8 +17,23 @@ def likes(names):
 
 
 people = ["Alex", "Jacob", "Mark", "Max" ]
-people1 = ["Alex", "Jacob" ]
-print (likes(people1))
+# people1 = ["Alex", "Jacob" ]
+# print (likes(people1))
+
+arr = [3,2,1,5]
+
+for i in arr:
+    m= True if i==2 else False
+    #print (m)
+
+n=6
+for i in range (6):
+    if i not in arr:
+        arr.append(i)
+
+print(arr)
+    
+    
 
 if __name__ == "__main__":
     likes(people)
